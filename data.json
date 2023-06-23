@@ -1,0 +1,6 @@
+[
+    { "tipo": "General", "precio": 500.0, "cantidad": 100},
+    { "tipo": "VIP", "precio": 2000.0, "cantidad": 20}, 
+    { "tipo": "Tribuna Derecha", "precio": 1500.0, "cantidad": 50},
+    { "tipo": "Tribuna Izquierda", "precio": 1500.0, "cantidad": 50}
+]

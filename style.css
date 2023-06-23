@@ -1,0 +1,62 @@
+.button {
+    display: inline-block;
+    padding: 10px 20px;
+    margin: 5px;
+    background-color: black;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.button:hover {
+    background-color: palevioletred;
+}
+
+.button:focus {
+    outline: none;
+}
+
+p {
+    display: grid;
+    background-color: rgb(241, 178, 189);
+    width: 35%;
+    color: black;
+}
+
+.hidden {
+    display: none;
+}
+
+#campos-usuario{
+    display: none;
+}
+
+.confirmar-compra-button {
+    background-color: rgb(196, 21, 79);
+    color: white;
+    border-radius: 1px;
+    padding: 5px ;
+    font-size: 15px;
+    cursor: pointer;  
+    }
+
+.button-container {
+    display: inline-block;
+position: absolute;
+bottom: 10%;
+}
+
+.buttonCompra {
+    color: black;
+    font-size: 15px;
+    border-radius: 5px;
+    margin: 5px;
+}
+
+.buttonCarrito {
+    color: black;
+    font-size: 15px;
+    border-radius: 5px;
+}
